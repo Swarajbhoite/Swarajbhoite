@@ -68,19 +68,5 @@
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </div><br/>
 <table>
-   <tr>
-    <td>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AdityaKadam32&show_icons=true&locale=en&theme=onedark" alt="AdityaKadam32" /></td>
-    <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdityaKadam32&show_icons=true&locale=en&layout=compact&theme=onedark" alt="AdityaKadam32" /></td>
-   </tr>
-</table>
- <div align="center">
-  <p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-nine-olive.vercel.app?user=AdityaKadam32&theme=onedark&exclude_days=Sun" alt="GitHub Streak" /></a></p>
-</div>  
  
-<br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdityaKadam32/AdityaKadam32/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdityaKadam32/AdityaKadam32/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AdityaKadam32/AdityaKadam32/output/github-contribution-grid-snake.svg">
-</picture>
