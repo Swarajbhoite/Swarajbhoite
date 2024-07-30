@@ -1,6 +1,6 @@
 
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/swaraj-bhoite-8962a0185/" target="_blank">Swaraj Bhoite </a></h1>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=AWS+DEVOPS+Web Development+%3A)" /> </h3>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=AWS+DEVOPS+%3A)" /> </h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AdityaKadam32&label=Profile%20views&color=0e75b6&style=flat" alt="AdityaKadam32" /> </p>
 
@@ -73,7 +73,7 @@
 </div><br/>
 <table>
   -->
-  # Technical Skills and Experience
+  #### Sharing MyTechnical Skills and Experience
 
 ## DevOps, AWS, and Linux
 
